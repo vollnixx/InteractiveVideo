@@ -38,7 +38,8 @@ module.exports = function(config) {
 		preprocessors: {    '../jquery.InteractiveVideoQuestionViewer.js': ['coverage'],
 							'../jquery.InteractiveVideoQuestionCreator.js': ['coverage'],
 							'../InteractiveVideoPlayerComments.js': ['coverage'],
-							'../InteractiveVideoPlayerAbstract.js' : ['coverage']
+							'../InteractiveVideoPlayerAbstract.js' : ['coverage'],
+							'../InteractiveVideoPlayerFunctions.js' : ['coverage']
 		},
 
 		coverageReporter: { type : 'html', dir : 'coverage/' },
