@@ -18,6 +18,7 @@ module.exports = function(config) {
 		        '../jquery.InteractiveVideoQuestionCreator.js', 'InteractiveVideoQuestionCreatorTest.js',
 		        '../InteractiveVideoPlayerComments.js', 'InteractiveVideoPlayerCommentsTest.js',
 		        '../InteractiveVideoPlayerAbstract.js', 'InteractiveVideoPlayerAbstractTests.js',
+				'../InteractiveVideoPlayerFunctions.js',
 		        {pattern: 'spec/javascripts/fixtures/*'}
 		],
 
