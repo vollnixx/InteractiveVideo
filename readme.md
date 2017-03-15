@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/vollnixx/interactivevideo/badge/unstable)](https://www.codefactor.io/repository/github/vollnixx/interactivevideo/overview/unstable)
+
 # InteractiveVideo
 ILIAS Interactive Video Plugin
 
